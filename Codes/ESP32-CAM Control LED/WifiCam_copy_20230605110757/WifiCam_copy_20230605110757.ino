@@ -2,8 +2,8 @@
 #include <WiFi.h>
 #include <WebSocketsServer.h>
 
-static const char* WIFI_SSID = "PCOM91";
-static const char* WIFI_PASS = "0251828225Oi";
+static const char* WIFI_SSID = "**********";
+static const char* WIFI_PASS = "**********";
 
 esp32cam::Resolution initialResolution;
 
