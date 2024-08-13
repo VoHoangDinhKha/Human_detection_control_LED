@@ -9,3 +9,6 @@ If you have accessed an MJPEG stream in a browser, you need to click *Stop* butt
 Otherwise, you won't be able to open another page or picture.
 
 Due to memory constraints, it's not recommended to access BMP format in high resolution.
+
+## Demo:
+[![demo](https://github.com/user-attachments/assets/3d88cf91-eba9-4913-8a69-632cde659aca)](https://youtu.be/-mB386IV1bI)
